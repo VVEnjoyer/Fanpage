@@ -1,7 +1,17 @@
 h1 {
    color: crimson; 
+   text-align: end;
 }
 
 h2 {
 color: lightseagreen;
+}
+
+p.refrain {
+    color: lightsalmon;
+    font-style: italic;
+}
+
+p.couplet {
+    font-style: inherit;
 }
