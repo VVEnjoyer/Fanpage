@@ -1,17 +1,45 @@
 h1 {
-   color: crimson; 
-   text-align: end;
+   color: rgb(61, 61, 132); 
+   text-align: center;
+    font-family: fantasy;
+}
+
+span.note{
+   font-size: xx-large;
+   border-width: 5px;
+   border-style: double;
+   border-color: rgb(26, 20, 20);
+   padding:0.5em;
+
+}
+
+span.note>i {
+    color: rgb(32, 70, 127);
 }
 
 h2 {
-color: lightseagreen;
+color: rgb(65, 131, 132);
+text-decoration-line: underline;
+text-indent: 30px;
 }
 
 p.refrain {
-    color: lightsalmon;
+    color: grey;
     font-style: italic;
 }
 
 p.couplet {
     font-style: inherit;
 }
+body{
+    background-color: powderblue;}
+
+    p {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-left: 50px;
+        margin-right: 30px;
+        }
+
+img{
+    display: block;
+margin-left: 60px;}
