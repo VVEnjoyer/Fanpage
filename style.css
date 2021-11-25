@@ -1,7 +1,7 @@
 h1 {
-   color: rgb(61, 61, 132); 
-   text-align: center;
-    font-family: fantasy;
+    color: rgb(61, 61, 132); 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 span.note{
@@ -52,8 +52,4 @@ h3 {
 iframe{
     text-align: center;
     font-size: x-small;
-}
-
-span.vidéos {
-
 }
